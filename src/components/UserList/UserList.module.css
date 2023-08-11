@@ -1,0 +1,13 @@
+.user-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.user-list__item {
+  font: inherit;
+  margin: 0.5rem 0;
+  padding: 0.4rem;
+  font-size: 0.8rem;
+  border: 1px solid #ccc;
+}

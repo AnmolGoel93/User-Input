@@ -1,0 +1,20 @@
+.user-input__control {
+  margin-bottom: 0.5rem;
+}
+
+.user-input__control label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+  font-size: 0.8rem;
+}
+
+.user-input__control input {
+  width: 100%;
+  padding: 0.25rem;
+  border: 1px solid #ccc;
+}
+
+.user-input__control input:focus {
+  border: 1px solid rgba(0, 0, 0, 0.647);
+}
